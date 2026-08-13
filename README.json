@@ -1,0 +1,626 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Everything",
+          "description": "Find files and folders instantly with Everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-30T10:22:30Z",
+            "owner": "lin-ycv",
+            "repo": "EverythingPowerToys",
+            "stars": 3355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerTranslator",
+          "description": "Translate text with Youdao Translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-13T03:19:43Z",
+            "owner": "N0I0C0K",
+            "repo": "PowerTranslator",
+            "stars": 582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinGet",
+          "description": "Install and manage Windows packages with WinGet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:05:26Z",
+            "owner": "bostrot",
+            "repo": "PowerToysRunPluginWinget",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebSearchShortcut",
+          "description": "Search with predefined search engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-26T07:55:18Z",
+            "owner": "Daydreamer-riri",
+            "repo": "CmdPal-WebSearchShortcut",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClipboardManager",
+          "description": "Search and paste from clipboard history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-03T12:00:28Z",
+            "owner": "CoreyHayward",
+            "repo": "PowerToys-Run-ClipboardManager",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CurrencyConverter",
+          "description": "Convert traditional and cryptocurrency with the latest exchange rates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-09T18:25:52Z",
+            "owner": "Advaith3600",
+            "repo": "PowerToys-Run-Currency-Converter",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProcessKiller",
+          "description": "Kill Windows processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-22T12:47:52Z",
+            "owner": "8LWXpg",
+            "repo": "PowerToysRun-ProcessKiller",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GEmojiSharp",
+          "description": "Find and copy GitHub emoji.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-09T09:30:30Z",
+            "owner": "hlaueriksson",
+            "repo": "GEmojiSharp",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeFavorite",
+          "description": "Open Microsoft Edge favorites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-10T19:31:32Z",
+            "owner": "davidegiacometti",
+            "repo": "PowerToys-Run-EdgeFavorite",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHubRepo",
+          "description": "Open GitHub repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-25T09:26:02Z",
+            "owner": "8LWXpg",
+            "repo": "PowerToysRun-GitHubRepo",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InputTyper",
+          "description": "Type text as if sent from a keyboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-16T08:34:55Z",
+            "owner": "CoreyHayward",
+            "repo": "PowerToys-Run-InputTyper",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisualStudio",
+          "description": "Open recent solutions in Visual Studio.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-21T18:18:59Z",
+            "owner": "davidegiacometti",
+            "repo": "PowerToys-Run-VisualStudio",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VideoDownloader",
+          "description": "Download videos from various platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-04T08:51:06Z",
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-VideoDownloader",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scoop",
+          "description": "Install and manage Windows packages with Scoop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-18T10:17:36Z",
+            "owner": "Quriz",
+            "repo": "PowerToysRunScoop",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpeedTest",
+          "description": "Test your internet connection speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-09T13:49:02Z",
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-SpeedTest",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Definition",
+          "description": "Lookup word definitions, phonetics, and synonyms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-03T10:44:48Z",
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-Definition",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TOTP",
+          "description": "Copy time-based two factor verify codes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-07T05:36:12Z",
+            "owner": "KawaiiZapic",
+            "repo": "PowertoysRunTOTP",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bang",
+          "description": "Search websites with DuckDuckGo !Bangs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T20:38:47Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugins",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DenCode",
+          "description": "Encoding & Decoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T20:38:47Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugins",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dice",
+          "description": "Roleplaying dice roller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T20:38:47Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugins",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Need",
+          "description": "Key-value store for important information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T20:38:47Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugins",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twitch",
+          "description": "Browse, search and view streams on Twitch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T20:38:47Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugins",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnicodeInput",
+          "description": "Find and copy Unicode characters with Agda-style shorthands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-11T15:18:21Z",
+            "owner": "nathancartlidge",
+            "repo": "powertoys-run-unicode",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QuickNotes",
+          "description": "Create, manage, and search notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-05T14:05:00Z",
+            "owner": "ruslanlap",
+            "repo": "CommunityPowerToysRunPlugin-QuickNotes",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timer",
+          "description": "Set and manage timers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-28T18:57:56Z",
+            "owner": "CoreyHayward",
+            "repo": "PowerToys-Run-Timer",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HexInspector",
+          "description": "Convert numbers between bases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-02-12T18:14:58Z",
+            "owner": "NaroZeol",
+            "repo": "PowerHexInspector",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalLLM",
+          "description": "Query local LLM models with Ollama.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-20T06:08:19Z",
+            "owner": "Darkdriller",
+            "repo": "PowerToys-Run-LocalLLm",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Search Suggestions",
+          "description": "Adds search suggestions when typing something.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-09T21:33:36Z",
+            "owner": "Fefedu973",
+            "repo": "PowerToys-Run-Universal-Search-Suggestions-Plugin",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RandomGen",
+          "description": "Generate various types of random data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-06T19:18:22Z",
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-RandomGen",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVGL",
+          "description": "Browse, search, and copy SVG logos via svgl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-22T07:10:26Z",
+            "owner": "SameerJS6",
+            "repo": "powertoys-svgl",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitKraken",
+          "description": "Open GitKraken repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-10T19:36:40Z",
+            "owner": "davidegiacometti",
+            "repo": "PowerToys-Run-GitKraken",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hotkeys",
+          "description": "Find and copy keyboard shortcuts for various applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-15T17:56:46Z",
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-Hotkeys",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lorem",
+          "description": "Generate lorem ipsum texts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-28T09:56:37Z",
+            "owner": "dandn9",
+            "repo": "prun-lorem",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserFavorite",
+          "description": "Quickly open your Browser Bookmarks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-14T17:46:01Z",
+            "owner": "Der-Penz",
+            "repo": "PowerToys-Run-BrowserFavorite",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JohnnyDecimal",
+          "description": "Navigate through your JohnnyDecimal system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-10T11:01:17Z",
+            "owner": "seguri",
+            "repo": "PowerToys-Run-JohnnyDecimal",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TemplateRunner",
+          "description": "Use simple commands and scripts as mini plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-09-07T12:32:26Z",
+            "owner": "Heck-R",
+            "repo": "PowerToys.Run.Plugin.TemplateRunner",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ptr",
+          "description": "CLI tool for installing and managing community plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T06:49:54Z",
+            "owner": "8LWXpg",
+            "repo": "ptr",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio Template",
+          "description": "Visual Studio template for community plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-04-29T13:17:07Z",
+            "owner": "8LWXpg",
+            "repo": "PowerToysRun-PluginTemplate",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community.PowerToys.Run.Plugin.Templates",
+          "description": "templates for community plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T15:21:18Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugin.Templates",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community.PowerToys.Run.Plugin.Dependencies",
+          "description": "NuGet package with community plugin dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-30T13:19:44Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugin.Dependencies",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community.PowerToys.Run.Plugin.Update",
+          "description": "NuGet package with support for updating community plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T18:23:04Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugin.Update",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community.PowerToys.Run.Plugin.Lint",
+          "description": "Linter for community plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T18:41:29Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugin.Lint",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Community.PowerToys.Run.Plugin.Abstractions",
+          "description": "NuGet package with abstractions for community plugin dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-30T16:28:41Z",
+            "owner": "hlaueriksson",
+            "repo": "Community.PowerToys.Run.Plugin.Abstractions",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:45.708Z",
+    "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
+    "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
+    "enhanced_repository": "enhansome/enhansome-powertoys-run-plugins",
+    "enhanced_repository_description": null,
+    "title": "Awesome PowerToys Run Plugins with stars"
+  }
+}
