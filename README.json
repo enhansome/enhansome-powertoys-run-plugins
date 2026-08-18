@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T01:04:09Z",
+            "last_commit": "2026-08-18T01:02:37Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
@@ -154,7 +154,7 @@
             "last_commit": "2025-05-16T08:34:55Z",
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-InputTyper",
-            "stars": 126
+            "stars": 125
           }
         },
         {
@@ -221,7 +221,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-03T10:44:48Z",
+            "last_commit": "2026-08-17T10:55:53Z",
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Definition",
             "stars": 58
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:26:55.995Z",
+    "last_updated": "2026-08-18T05:20:07.247Z",
     "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
     "enhanced_repository": "enhansome/enhansome-powertoys-run-plugins",
