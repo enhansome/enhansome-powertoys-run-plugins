@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 137,831 | 🐛 7,515 | 🌐 C | 📅 2026-08-18
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 137,861 | 🐛 7,496 | 🌐 C | 📅 2026-08-19
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,9 +55,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,359 | 🐛 0 | 🌐 C# | 📅 2026-05-30 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,360 | 🐛 0 | 🌐 C# | 📅 2026-05-30 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 582 | 🐛 19 | 🌐 C# | 📅 2026-07-13 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 335 | 🐛 9 | 🌐 C# | 📅 2026-08-18 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 335 | 🐛 9 | 🌐 C# | 📅 2026-08-19 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 303 | 🐛 19 | 🌐 C# | 📅 2026-04-26 - Search with predefined search engines.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 240 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 238 | 🐛 0 | 🌐 C# | 📅 2026-06-09 - Convert traditional and cryptocurrency with the latest exchange rates.
@@ -67,7 +67,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-08-15 - Open GitHub repositories.
 * [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 125 | 🐛 2 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
 * [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) ⭐ 87 | 🐛 0 | 🌐 C# | 📅 2025-04-21 - Open recent solutions in Visual Studio.
-* [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 84 | 🐛 6 | 🌐 C# | 📅 2026-08-04 - Download videos from various platforms.
+* [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 84 | 🐛 6 | 🌐 C# | 📅 2026-08-18 - Download videos from various platforms.
 * [Scoop](https://github.com/Quriz/PowerToysRunScoop) ⭐ 74 | 🐛 1 | 🌐 C# | 📅 2025-03-18 - Install and manage Windows packages with Scoop.
 * [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) ⭐ 60 | 🐛 0 | 🌐 C# | 📅 2025-09-09 - Test your internet connection speed.
 * [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) ⭐ 58 | 🐛 0 | 🌐 C# | 📅 2026-08-17 - Lookup word definitions, phonetics, and synonyms.
@@ -120,4 +120,4 @@ npx awesome-lint https://github.com/hlaueriksson/awesome-powertoys-run-plugins
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

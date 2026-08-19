@@ -14,7 +14,7 @@
             "last_commit": "2026-05-30T10:22:30Z",
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3359
+            "stars": 3360
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-18T01:02:37Z",
+            "last_commit": "2026-08-19T01:02:33Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-04T08:51:06Z",
+            "last_commit": "2026-08-18T07:45:22Z",
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 84
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:20:07.247Z",
+    "last_updated": "2026-08-19T05:20:17.638Z",
     "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
     "enhanced_repository": "enhansome/enhansome-powertoys-run-plugins",
