@@ -15,7 +15,7 @@
             "last_commit": "2026-05-30T10:22:30Z",
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3361
+            "stars": 3360
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 613023630,
             "language": "C#",
-            "last_commit": "2026-08-20T01:04:05Z",
+            "last_commit": "2026-08-21T01:04:28Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 753560464,
             "language": "C#",
-            "last_commit": "2026-08-16T15:07:07Z",
+            "last_commit": "2026-08-20T12:51:36Z",
             "owner": "8LWXpg",
             "repo": "PowerToysRun-ProcessKiller",
             "stars": 188
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:21:47.582Z",
+    "last_updated": "2026-08-21T05:23:49.280Z",
     "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
     "original_repository_id": 482754397,
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
