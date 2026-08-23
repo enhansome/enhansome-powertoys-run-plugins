@@ -42,7 +42,7 @@
             "archived": false,
             "id": 613023630,
             "language": "C#",
-            "last_commit": "2026-08-22T01:03:56Z",
+            "last_commit": "2026-08-23T01:03:49Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-09T18:25:52Z",
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 238
+            "stars": 237
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 952785428,
             "language": "C#",
-            "last_commit": "2026-08-18T07:45:22Z",
+            "last_commit": "2026-08-22T20:45:28Z",
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 84
@@ -255,7 +255,7 @@
             "last_commit": "2026-05-07T05:36:12Z",
             "owner": "KawaiiZapic",
             "repo": "PowertoysRunTOTP",
-            "stars": 56
+            "stars": 57
           }
         },
         {
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:18:09.889Z",
+    "last_updated": "2026-08-23T05:20:17.280Z",
     "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
     "original_repository_id": 482754397,
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
