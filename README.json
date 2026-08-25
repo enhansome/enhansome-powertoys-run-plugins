@@ -12,10 +12,10 @@
             "archived": false,
             "id": 184456251,
             "language": "C",
-            "last_commit": "2026-08-24T14:06:49Z",
+            "last_commit": "2026-08-25T05:18:47Z",
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138054
+            "stars": 138077
           }
         }
       ],
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 613023630,
             "language": "C#",
-            "last_commit": "2026-08-24T01:04:14Z",
+            "last_commit": "2026-08-25T01:04:01Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:39.282Z",
+    "last_updated": "2026-08-25T05:23:17.533Z",
     "original_repository": "hlaueriksson/awesome-powertoys-run-plugins",
     "original_repository_id": 482754397,
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
