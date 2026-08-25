@@ -25,7 +25,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 <!--lint disable double-link-->
 
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,077 | 🐛 7,520 | 🌐 C | 📅 2026-08-25
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,078 | 🐛 7,520 | 🌐 C | 📅 2026-08-25
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
