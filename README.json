@@ -12,10 +12,10 @@
             "archived": false,
             "id": 184456251,
             "language": "C",
-            "last_commit": "2026-08-27T08:26:29Z",
+            "last_commit": "2026-08-27T15:28:59Z",
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138157
+            "stars": 138158
           }
         }
       ],
@@ -402,7 +402,7 @@
             "last_commit": "2026-02-05T14:05:00Z",
             "owner": "ruslanlap",
             "repo": "CommunityPowerToysRunPlugin-QuickNotes",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:41.083Z",
+    "last_updated": "2026-08-27T15:59:21.173Z",
     "original_repository_info": {
       "archived": false,
       "id": 482754397,
