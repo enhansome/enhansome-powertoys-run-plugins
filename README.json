@@ -12,11 +12,12 @@
             "archived": false,
             "id": 184456251,
             "language": "C",
-            "last_commit": "2026-08-27T15:28:59Z",
+            "last_commit": "2026-08-28T16:22:52Z",
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138158
-          }
+            "stars": 138176
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         }
       ],
       "title": "Official"
@@ -37,7 +38,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Install",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         }
       ],
       "title": "Installation"
@@ -58,7 +60,8 @@
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
             "stars": 3362
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "N0I0C0K",
             "repo": "PowerTranslator",
             "stars": 581
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 613023630,
             "language": "C#",
-            "last_commit": "2026-08-27T02:13:22Z",
+            "last_commit": "2026-08-28T03:34:45Z",
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "Daydreamer-riri",
             "repo": "CmdPal-WebSearchShortcut",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-ClipboardManager",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "8LWXpg",
             "repo": "PowerToysRun-ProcessKiller",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "hlaueriksson",
             "repo": "GEmojiSharp",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-EdgeFavorite",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "8LWXpg",
             "repo": "PowerToysRun-GitHubRepo",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-InputTyper",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-VisualStudio",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "Quriz",
             "repo": "PowerToysRunScoop",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "ruslanlap",
             "repo": "PowerToysRun-SpeedTest",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Definition",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "KawaiiZapic",
             "repo": "PowertoysRunTOTP",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "nathancartlidge",
             "repo": "powertoys-run-unicode",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "ruslanlap",
             "repo": "CommunityPowerToysRunPlugin-QuickNotes",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-Timer",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "NaroZeol",
             "repo": "PowerHexInspector",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "Darkdriller",
             "repo": "PowerToys-Run-LocalLLm",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "Fefedu973",
             "repo": "PowerToys-Run-Universal-Search-Suggestions-Plugin",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "ruslanlap",
             "repo": "PowerToysRun-RandomGen",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "SameerJS6",
             "repo": "powertoys-svgl",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-GitKraken",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Hotkeys",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "dandn9",
             "repo": "prun-lorem",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "Der-Penz",
             "repo": "PowerToys-Run-BrowserFavorite",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "seguri",
             "repo": "PowerToys-Run-JohnnyDecimal",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "Heck-R",
             "repo": "PowerToys.Run.Plugin.TemplateRunner",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         }
       ],
       "title": "Plugins"
@@ -603,8 +641,9 @@
             "last_commit": "2026-08-11T06:49:54Z",
             "owner": "8LWXpg",
             "repo": "ptr",
-            "stars": 149
-          }
+            "stars": 150
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "8LWXpg",
             "repo": "PowerToysRun-PluginTemplate",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Templates",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Dependencies",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Update",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Lint",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         },
         {
           "node_type": "item",
@@ -694,14 +738,15 @@
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Abstractions",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:59:21.173Z",
+    "last_updated": "2026-08-28T16:59:34.387Z",
     "original_repository_info": {
       "archived": false,
       "id": 482754397,
