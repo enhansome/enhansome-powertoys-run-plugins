@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+            "homepage": null,
             "id": 184456251,
             "language": "C",
-            "last_commit": "2026-08-28T16:22:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:39:37Z",
+            "open_issues": 7600,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138176
+            "stars": 138182,
+            "topics": [
+              "advanced-paste",
+              "color-picker",
+              "command-palette",
+              "desktop",
+              "fancyzones",
+              "keyboard-manager",
+              "microsoft-powertoys",
+              "powerrename",
+              "powertoys",
+              "windows",
+              "windows-10",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         }
@@ -32,12 +50,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Install awesome community PowerToys Run plugins via this plugin ⬇️🔌📦",
+            "homepage": "http://install.ptrun.net/",
             "id": 870256821,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-31T14:09:10Z",
+            "open_issues": 0,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Install",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         }
@@ -54,12 +84,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything search plugin for PowerToys Run",
+            "homepage": null,
             "id": 446422151,
             "language": "C#",
+            "license": "EPL-2.0",
             "last_commit": "2026-05-30T10:22:30Z",
+            "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3362
+            "stars": 3362,
+            "topics": [
+              "everything",
+              "everything-search",
+              "extension",
+              "file-search",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "run",
+              "search",
+              "voidtools"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -70,12 +117,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个 PowerToys Run 和 Cmdpal 的翻译插件/a translate plugin for PowerToys Run and Cmdpal",
+            "homepage": null,
             "id": 459124099,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-13T03:19:43Z",
+            "open_issues": 19,
             "owner": "N0I0C0K",
             "repo": "PowerTranslator",
-            "stars": 581
+            "stars": 581,
+            "topics": [
+              "chinese-translation",
+              "cmdpal",
+              "cmdpal-extension",
+              "english-translation",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "translate-plugin",
+              "translator"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -86,12 +148,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Winget plugin for PowerToys Run",
+            "homepage": null,
             "id": 613023630,
             "language": "C#",
-            "last_commit": "2026-08-28T03:34:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:02:38Z",
+            "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "winget",
+              "winget-cli",
+              "wingetui"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -102,12 +177,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a simple CmdPal Extension for quickly select a specific search engine to perform searches.",
+            "homepage": null,
             "id": 771505165,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-26T07:55:18Z",
+            "open_issues": 19,
             "owner": "Daydreamer-riri",
             "repo": "CmdPal-WebSearchShortcut",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "cmdpal",
+              "cmdpal-extension",
+              "microsoft-powertoys",
+              "powertoys",
+              "powertoys-command-palette",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "search",
+              "search-engine",
+              "windows-commandpalette-extension"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -118,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run Plugin enabling searching of the clipboard history and pasting the selected item.",
+            "homepage": null,
             "id": 743247655,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-03T12:00:28Z",
+            "open_issues": 7,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-ClipboardManager",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -134,12 +230,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run plugin which will convert real and crypto currencies.",
+            "homepage": null,
             "id": 744661315,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-09T18:25:52Z",
+            "open_issues": 0,
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 237
+            "stars": 238,
+            "topics": [
+              "convert-currencies",
+              "converter",
+              "cryptocurrency",
+              "currency-conversion",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -150,12 +259,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run Plugin for killing processes",
+            "homepage": null,
             "id": 753560464,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-21T14:15:40Z",
+            "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-ProcessKiller",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -166,12 +284,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: GitHub Emoji for C#, dotnet and beyond",
+            "homepage": "https://hlaueriksson.github.io/GEmojiSharp/",
             "id": 181346085,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-02-09T09:30:30Z",
+            "open_issues": 2,
             "owner": "hlaueriksson",
             "repo": "GEmojiSharp",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "asp-net-core",
+              "blazor",
+              "cmdpal",
+              "cmdpal-extension",
+              "csharp",
+              "dotnet",
+              "dotnet-tool",
+              "emoji",
+              "gemoji",
+              "github",
+              "mcp",
+              "mcp-server",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -182,12 +320,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple PowerToys Run experimental plugin for search Microsoft Edge favorites",
+            "homepage": null,
             "id": 609974502,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-10T19:31:32Z",
+            "open_issues": 1,
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-EdgeFavorite",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "edge",
+              "edge-favorites",
+              "microsoft-edge",
+              "microsoft-powertoys",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -198,12 +351,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run Plugin for searching and opening GitHub repositories",
+            "homepage": null,
             "id": 747168048,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-21T14:28:33Z",
+            "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-GitHubRepo",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -214,12 +376,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run plugin for typing the input text as if it was sent from a keyboard.",
+            "homepage": null,
             "id": 734696039,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-16T08:34:55Z",
+            "open_issues": 2,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-InputTyper",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "input",
+              "paste",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "typing"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -230,12 +404,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple PowerToys Run experimental plugin for search Visual Studio recents",
+            "homepage": null,
             "id": 661863955,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-21T18:18:59Z",
+            "open_issues": 0,
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-VisualStudio",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "search",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -246,12 +433,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToysRun-VideoDownloader is a plugin for Microsoft PowerToys Run that allows you to quickly download videos from various platforms (primarily YouTube) directly from your PowerToys Run interface. Simply type dl followed by a video URL to get started.",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 952785428,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:40:28Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "dotnet",
+              "powershell-script",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "windows",
+              "windows-10",
+              "windows-11",
+              "windows-forms"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -262,12 +464,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scoop plugin for PowerToys Run",
+            "homepage": null,
             "id": 732514666,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-18T10:17:36Z",
+            "open_issues": 1,
             "owner": "Quriz",
             "repo": "PowerToysRunScoop",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "scoop",
+              "scoop-search"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -278,12 +491,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run internet speed tests directly from PowerToys Run",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 974455756,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-09-09T13:49:02Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-SpeedTest",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "plugin",
+              "powertoys",
+              "powertoys-run-plugin",
+              "windows",
+              "windows-10"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -294,12 +518,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lookup word definitions, phonetics, and synonyms directly in PowerToys Run.",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 976179767,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:29:37Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Definition",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "plugin",
+              "powertoys",
+              "powertoys-run-plugin",
+              "windows",
+              "windows-10"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -310,12 +547,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin help you to copy your two-factor verify code in Powertoys Run",
+            "homepage": null,
             "id": 697154886,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-05-07T05:36:12Z",
+            "open_issues": 0,
             "owner": "KawaiiZapic",
             "repo": "PowertoysRunTOTP",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -326,12 +572,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂️🔎 Community PowerToys Run Plugins 🔌",
+            "homepage": null,
             "id": 540905243,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T20:38:47Z",
+            "open_issues": 3,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -342,12 +600,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂️🔎 Community PowerToys Run Plugins 🔌",
+            "homepage": null,
             "id": 540905243,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T20:38:47Z",
+            "open_issues": 3,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -358,12 +628,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂️🔎 Community PowerToys Run Plugins 🔌",
+            "homepage": null,
             "id": 540905243,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T20:38:47Z",
+            "open_issues": 3,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -374,12 +656,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂️🔎 Community PowerToys Run Plugins 🔌",
+            "homepage": null,
             "id": 540905243,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T20:38:47Z",
+            "open_issues": 3,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -390,12 +684,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗂️🔎 Community PowerToys Run Plugins 🔌",
+            "homepage": null,
             "id": 540905243,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T20:38:47Z",
+            "open_issues": 3,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugins",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -406,12 +712,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run module to permit HTML and Agda symbolic input (via Run) anywhere!",
+            "homepage": null,
             "id": 773125328,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-11T15:18:21Z",
+            "open_issues": 2,
             "owner": "nathancartlidge",
             "repo": "powertoys-run-unicode",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "agda-mode",
+              "latex",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -422,12 +739,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QuickNotes is a plugin for [Microsoft PowerToys Run](https://github.com/microsoft/PowerToys) that allows you to quickly create, manage, and search notes directly from your PowerToys Run interface. Simply type `qq` followed by your note text to save it,",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 954291287,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-02-05T14:05:00Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "CommunityPowerToysRunPlugin-QuickNotes",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "notes",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -438,12 +769,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run plugin for setting timers",
+            "homepage": null,
             "id": 805463245,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-10-28T18:57:56Z",
+            "open_issues": 8,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-Timer",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -454,12 +790,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple powertoys run plugin provides fast and easy way to peek other forms of an input number",
+            "homepage": null,
             "id": 803710120,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-02-12T18:14:58Z",
+            "open_issues": 1,
             "owner": "NaroZeol",
             "repo": "PowerHexInspector",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -470,12 +815,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "use Local LLM on PowerToys Run",
+            "homepage": null,
             "id": 844740659,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-20T06:08:19Z",
+            "open_issues": 6,
             "owner": "Darkdriller",
             "repo": "PowerToys-Run-LocalLLm",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "llms",
+              "ollama-api",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -486,12 +840,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a PowerToys Run Plugin that adds search suggestions when searching something ",
+            "homepage": null,
             "id": 818750123,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-09T21:33:36Z",
+            "open_issues": 0,
             "owner": "Fefedu973",
             "repo": "PowerToys-Run-Universal-Search-Suggestions-Plugin",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "browser",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "search",
+              "search-engine",
+              "search-suggestions"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -502,12 +870,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎲 RandomGen for PowerToys Run Generate random data instantly with a single keystroke ",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 1006234812,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-11-06T19:18:22Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-RandomGen",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "csharp",
+              "datagenerator",
+              "designtools",
+              "dotnet",
+              "fakedata",
+              "faker",
+              "plugin",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "windows",
+              "windows-10",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -518,12 +905,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PowerToys plugin to search and copy SVG logos from SVGL.",
+            "homepage": "https://svgl.sameerjs.com",
             "id": 923172933,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-22T07:10:26Z",
+            "open_issues": 0,
             "owner": "SameerJS6",
             "repo": "powertoys-svgl",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "csharp",
+              "desktop",
+              "microsoft",
+              "microsoft-powertoys",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "svg",
+              "svgl",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -534,12 +937,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple PowerToys Run experimental plugin for quickly open GitKraken repositories",
+            "homepage": null,
             "id": 626621785,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-10T19:36:40Z",
+            "open_issues": 0,
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-GitKraken",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "git",
+              "gitkraken",
+              "microsoft-powertoys",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -550,12 +966,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerToys Run: Hotkeys Plugin. Find and copy keyboard shortcuts for any application directly in PowerToys Run.",
+            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
             "id": 1011969738,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-01-15T17:56:46Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Hotkeys",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hotkeys",
+              "plugin",
+              "powertoys",
+              "powertoys-run-plugin",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -566,12 +993,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lorem Ipsum Generator Plugin for PowerToys Run",
+            "homepage": null,
             "id": 677509847,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-10-28T09:56:37Z",
+            "open_issues": 1,
             "owner": "dandn9",
             "repo": "prun-lorem",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "lorem-ipsum",
+              "lorem-ipsum-generator",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -582,12 +1020,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powertoys Run Browser Favorite",
+            "homepage": null,
             "id": 894996971,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-14T17:46:01Z",
+            "open_issues": 2,
             "owner": "Der-Penz",
             "repo": "PowerToys-Run-BrowserFavorite",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -598,12 +1045,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://blog.seguri.dev/posts/powertoys-run-johnnydecimal/",
             "id": 892880607,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-01-10T11:01:17Z",
+            "open_issues": 0,
             "owner": "seguri",
             "repo": "PowerToys-Run-JohnnyDecimal",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -614,12 +1068,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use simple commands and scripts as mini plugins",
+            "homepage": null,
             "id": 933231244,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-09-07T12:32:26Z",
+            "open_issues": 0,
             "owner": "Heck-R",
             "repo": "PowerToys.Run.Plugin.TemplateRunner",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         }
@@ -636,12 +1097,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing PowerToys Run plugin manager",
+            "homepage": null,
             "id": 842875275,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-11T06:49:54Z",
+            "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "ptr",
-            "stars": 150
+            "stars": 150,
+            "topics": [
+              "cli",
+              "plugin-manager",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -652,12 +1125,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for PowerToysRun Plugin in Visual Studio",
+            "homepage": null,
             "id": 751300006,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-29T13:17:07Z",
+            "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-PluginTemplate",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin",
+              "visual-studio",
+              "visual-studio-template"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -668,12 +1152,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "These dotnet new templates simplify creating PowerToys Run plugin projects and solutions.",
+            "homepage": "https://www.nuget.org/packages/Community.PowerToys.Run.Plugin.Templates",
             "id": 832760505,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T15:21:18Z",
+            "open_issues": 0,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Templates",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -684,12 +1180,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This NuGet package simplifies referencing all PowerToys Run Plugin dependencies.",
+            "homepage": "https://www.nuget.org/packages/Community.PowerToys.Run.Plugin.Dependencies/",
             "id": 832114279,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-30T13:19:44Z",
+            "open_issues": 0,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Dependencies",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -700,12 +1208,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This NuGet package adds support for updating PowerToys Run Plugins.",
+            "homepage": "https://www.nuget.org/packages/Community.PowerToys.Run.Plugin.Update",
             "id": 837909619,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T18:23:04Z",
+            "open_issues": 1,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Update",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -716,12 +1236,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linter for PowerToys Run community plugins",
+            "homepage": "https://www.nuget.org/packages/Community.PowerToys.Run.Plugin.Lint",
             "id": 857638480,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T18:41:29Z",
+            "open_issues": 2,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Lint",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         },
@@ -732,12 +1264,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abstractions for Wox DLLs. Yay for testable community plugins!",
+            "homepage": "https://www.nuget.org/packages/Community.PowerToys.Run.Plugin.Abstractions",
             "id": 841557928,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-12-30T16:28:41Z",
+            "open_issues": 0,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Abstractions",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "microsoft-powertoys",
+              "plugin",
+              "plugins",
+              "powertoys",
+              "powertoys-run",
+              "powertoys-run-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
         }
@@ -746,15 +1290,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:59:34.387Z",
+    "last_updated": "2026-08-29T04:39:41.799Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
+      "homepage": "https://ptrun.net",
       "id": 482754397,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-09-08T21:25:03Z",
+      "open_issues": 7,
       "owner": "hlaueriksson",
       "repo": "awesome-powertoys-run-plugins",
-      "stars": 596
+      "stars": 596,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "microsoft-powertoys",
+        "plugins",
+        "powertoys",
+        "powertoys-run",
+        "powertoys-run-plugin"
+      ]
     },
     "original_repository_sha": "d8108fdfad591844cc30dd56bcbe0a47d023148f",
     "enhanced_repository": "enhansome/enhansome-powertoys-run-plugins",
