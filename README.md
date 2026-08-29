@@ -25,7 +25,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 <!--lint disable double-link-->
 
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,182 | 🐛 7,600 | 🌐 C | 📅 2026-08-29
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,191 | 🐛 7,612 | 🌐 C | 📅 2026-08-29
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
@@ -64,7 +64,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 188 | 🐛 0 | 🌐 C# | 📅 2026-08-21 - Kill Windows processes.
 * [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) ⭐ 156 | 🐛 2 | 🌐 C# | 📅 2026-02-09 - Find and copy GitHub emoji.
 * [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) ⭐ 135 | 🐛 1 | 🌐 C# | 📅 2025-04-10 - Open Microsoft Edge favorites.
-* [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-08-21 - Open GitHub repositories.
+* [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-08-29 - Open GitHub repositories.
 * [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 125 | 🐛 2 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
 * [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) ⭐ 87 | 🐛 0 | 🌐 C# | 📅 2025-04-21 - Open recent solutions in Visual Studio.
 * [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 84 | 🐛 0 | 🌐 C# | 📅 2026-08-25 - Download videos from various platforms.
