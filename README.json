@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:44:55Z",
-            "open_issues": 7658,
+            "last_commit": "2026-09-06T08:52:14Z",
+            "open_issues": 7661,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138401,
+            "stars": 138442,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3363,
+            "stars": 3364,
             "topics": [
               "everything",
               "everything-search",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:09:07Z",
+            "last_commit": "2026-09-06T01:17:49Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -434,25 +434,30 @@
           "repo_info": {
             "archived": false,
             "description": "PowerToysRun-VideoDownloader is a plugin for Microsoft PowerToys Run that allows you to quickly download videos from various platforms (primarily YouTube) directly from your PowerToys Run interface. Simply type dl followed by a video URL to get started.",
-            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
+            "homepage": "https://github.com/ruslanlap/PowerToysRun-VideoDownloader#readme",
             "id": 952785428,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-01T07:48:19Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-05T22:03:56Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 84,
             "topics": [
               "dotnet",
+              "download-manager",
+              "plugin",
               "powershell-script",
               "powertoys",
               "powertoys-run",
               "powertoys-run-plugin",
+              "video-downloader",
               "windows",
               "windows-10",
               "windows-11",
-              "windows-forms"
+              "windows-forms",
+              "youtube-downloader",
+              "yt-dlp"
             ]
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -492,7 +497,7 @@
           "repo_info": {
             "archived": false,
             "description": "Run internet speed tests directly from PowerToys Run",
-            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
+            "homepage": "https://github.com/ruslanlap/PowerToysRun-SpeedTest#readme",
             "id": 974455756,
             "language": "C#",
             "license": "MIT",
@@ -502,9 +507,13 @@
             "repo": "PowerToysRun-SpeedTest",
             "stars": 60,
             "topics": [
+              "internet-speed",
+              "network",
+              "ookla",
               "plugin",
               "powertoys",
               "powertoys-run-plugin",
+              "speedtest",
               "windows",
               "windows-10"
             ]
@@ -519,7 +528,7 @@
           "repo_info": {
             "archived": false,
             "description": "Lookup word definitions, phonetics, and synonyms directly in PowerToys Run.",
-            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
+            "homepage": "https://github.com/ruslanlap/PowerToysRun-Definition#readme",
             "id": 976179767,
             "language": "C#",
             "license": "MIT",
@@ -530,10 +539,15 @@
             "stars": 59,
             "topics": [
               "csharp",
+              "definitions",
+              "dictionary",
               "dotnet",
+              "phonetics",
               "plugin",
               "powertoys",
               "powertoys-run-plugin",
+              "synonyms",
+              "vocabulary",
               "windows",
               "windows-10"
             ]
@@ -740,7 +754,7 @@
           "repo_info": {
             "archived": false,
             "description": "QuickNotes is a plugin for [Microsoft PowerToys Run](https://github.com/microsoft/PowerToys) that allows you to quickly create, manage, and search notes directly from your PowerToys Run interface. Simply type `qq` followed by your note text to save it,",
-            "homepage": "https://ruslanlap.github.io/ruslanlap_buymeacoffe/",
+            "homepage": "https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes#readme",
             "id": 954291287,
             "language": "C#",
             "license": "MIT",
@@ -753,10 +767,14 @@
               "csharp",
               "dotnet",
               "notes",
+              "notes-app",
               "plugin",
               "powertoys",
               "powertoys-run",
               "powertoys-run-plugin",
+              "productivity",
+              "quick-notes",
+              "sticky-notes",
               "windows"
             ]
           },
@@ -1290,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:42:42.900Z",
+    "last_updated": "2026-09-06T09:02:55.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
