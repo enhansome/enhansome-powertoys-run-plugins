@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-22T09:05:28Z",
-            "open_issues": 7748,
+            "last_commit": "2026-09-23T09:12:28Z",
+            "open_issues": 7750,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 138907,
+            "stars": 138927,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -126,7 +126,7 @@
             "open_issues": 19,
             "owner": "N0I0C0K",
             "repo": "PowerTranslator",
-            "stars": 584,
+            "stars": 585,
             "topics": [
               "chinese-translation",
               "cmdpal",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-22T01:13:22Z",
+            "last_commit": "2026-09-23T01:13:04Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -505,7 +505,7 @@
             "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-SpeedTest",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "internet-speed",
               "network",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:33:15.504Z",
+    "last_updated": "2026-09-23T09:38:24.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
