@@ -25,7 +25,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 <!--lint disable double-link-->
 
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,927 | 🐛 7,750 | 🌐 C | 📅 2026-09-23
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 138,959 | 🐛 7,755 | 🌐 C | 📅 2026-09-24
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
@@ -55,14 +55,14 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,369 | 🐛 0 | 🌐 C# | 📅 2026-09-14 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,370 | 🐛 0 | 🌐 C# | 📅 2026-09-14 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 585 | 🐛 19 | 🌐 C# | 📅 2026-07-13 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 336 | 🐛 9 | 🌐 C# | 📅 2026-09-23 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 336 | 🐛 9 | 🌐 C# | 📅 2026-09-24 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 304 | 🐛 19 | 🌐 C# | 📅 2026-04-26 - Search with predefined search engines.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 242 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 239 | 🐛 0 | 🌐 C# | 📅 2026-06-09 - Convert traditional and cryptocurrency with the latest exchange rates.
 * [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 187 | 🐛 0 | 🌐 C# | 📅 2026-08-21 - Kill Windows processes.
-* [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) ⭐ 157 | 🐛 2 | 🌐 C# | 📅 2026-02-09 - Find and copy GitHub emoji.
+* [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) ⭐ 158 | 🐛 2 | 🌐 C# | 📅 2026-02-09 - Find and copy GitHub emoji.
 * [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) ⭐ 135 | 🐛 1 | 🌐 C# | 📅 2025-04-10 - Open Microsoft Edge favorites.
 * [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 129 | 🐛 0 | 🌐 C# | 📅 2026-08-29 - Open GitHub repositories.
 * [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 125 | 🐛 3 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
@@ -70,7 +70,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 85 | 🐛 1 | 🌐 C# | 📅 2026-09-22 - Download videos from various platforms.
 * [Scoop](https://github.com/Quriz/PowerToysRunScoop) ⭐ 74 | 🐛 1 | 🌐 C# | 📅 2025-03-18 - Install and manage Windows packages with Scoop.
 * [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) ⭐ 61 | 🐛 0 | 🌐 C# | 📅 2026-09-20 - Test your internet connection speed.
-* [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) ⭐ 59 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - Lookup word definitions, phonetics, and synonyms.
+* [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) ⭐ 60 | 🐛 0 | 🌐 C# | 📅 2026-09-09 - Lookup word definitions, phonetics, and synonyms.
 * [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) ⭐ 57 | 🐛 0 | 🌐 C# | 📅 2026-05-07 - Copy time-based two factor verify codes.
 * [Bang](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) ⭐ 47 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Search websites with DuckDuckGo !Bangs.
 * [DenCode](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) ⭐ 47 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Encoding & Decoding.
@@ -120,4 +120,4 @@ npx awesome-lint https://github.com/hlaueriksson/awesome-powertoys-run-plugins
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
