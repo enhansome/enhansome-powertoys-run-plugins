@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-27T04:20:04Z",
-            "open_issues": 7684,
+            "last_commit": "2026-09-28T09:20:14Z",
+            "open_issues": 7697,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139048,
+            "stars": 139079,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3372,
+            "stars": 3369,
             "topics": [
               "everything",
               "everything-search",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-27T01:22:40Z",
+            "last_commit": "2026-09-28T01:24:09Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T10:17:08.966Z",
+    "last_updated": "2026-09-28T11:20:06.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
