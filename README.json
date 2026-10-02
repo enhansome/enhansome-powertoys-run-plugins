@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-01T11:08:15Z",
-            "open_issues": 7672,
+            "last_commit": "2026-10-02T09:25:34Z",
+            "open_issues": 7681,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139131,
+            "stars": 139158,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3371,
+            "stars": 3372,
             "topics": [
               "everything",
               "everything-search",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T01:29:13Z",
+            "last_commit": "2026-10-02T01:19:39Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -239,7 +239,7 @@
             "open_issues": 0,
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "convert-currencies",
               "converter",
@@ -491,6 +491,40 @@
         },
         {
           "node_type": "item",
+          "title": "Definition",
+          "description": "Lookup word definitions, phonetics, and synonyms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Lookup word definitions, phonetics, and synonyms directly in PowerToys Run.",
+            "homepage": "https://github.com/ruslanlap/PowerToysRun-Definition#readme",
+            "id": 976179767,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-09-25T11:34:47Z",
+            "open_issues": 0,
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-Definition",
+            "stars": 62,
+            "topics": [
+              "csharp",
+              "definitions",
+              "dictionary",
+              "dotnet",
+              "phonetics",
+              "plugin",
+              "powertoys",
+              "powertoys-run-plugin",
+              "synonyms",
+              "vocabulary",
+              "windows",
+              "windows-10"
+            ]
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
+        },
+        {
+          "node_type": "item",
           "title": "SpeedTest",
           "description": "Test your internet connection speed.",
           "children": [],
@@ -514,40 +548,6 @@
               "powertoys",
               "powertoys-run-plugin",
               "speedtest",
-              "windows",
-              "windows-10"
-            ]
-          },
-          "first_seen": "2026-08-28T16:59:34.387Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Definition",
-          "description": "Lookup word definitions, phonetics, and synonyms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Lookup word definitions, phonetics, and synonyms directly in PowerToys Run.",
-            "homepage": "https://github.com/ruslanlap/PowerToysRun-Definition#readme",
-            "id": 976179767,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-09-25T11:34:47Z",
-            "open_issues": 0,
-            "owner": "ruslanlap",
-            "repo": "PowerToysRun-Definition",
-            "stars": 61,
-            "topics": [
-              "csharp",
-              "definitions",
-              "dictionary",
-              "dotnet",
-              "phonetics",
-              "plugin",
-              "powertoys",
-              "powertoys-run-plugin",
-              "synonyms",
-              "vocabulary",
               "windows",
               "windows-10"
             ]
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:15:29.511Z",
+    "last_updated": "2026-10-02T10:48:43.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
