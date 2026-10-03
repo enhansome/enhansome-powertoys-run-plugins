@@ -19,7 +19,7 @@
             "open_issues": 7687,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139170,
+            "stars": 139178,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:37.008Z",
+    "last_updated": "2026-10-03T10:07:42.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
