@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-07T11:19:33Z",
-            "open_issues": 7727,
+            "last_commit": "2026-10-08T11:37:11Z",
+            "open_issues": 7744,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139282,
+            "stars": 139304,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-07T01:23:36Z",
+            "last_commit": "2026-10-08T01:23:07Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -239,7 +239,7 @@
             "open_issues": 0,
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "convert-currencies",
               "converter",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:25:50.357Z",
+    "last_updated": "2026-10-08T11:41:24.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
