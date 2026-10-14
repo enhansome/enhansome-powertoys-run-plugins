@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:14:37Z",
-            "open_issues": 7741,
+            "last_commit": "2026-10-14T08:41:29Z",
+            "open_issues": 7754,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139255,
+            "stars": 139296,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:26:32Z",
+            "last_commit": "2026-10-14T01:12:22Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-GitHubRepo",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -1124,7 +1124,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "ptr",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "cli",
               "plugin-manager",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:20:03.714Z",
+    "last_updated": "2026-10-14T09:50:26.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
@@ -1320,7 +1320,7 @@
       "open_issues": 7,
       "owner": "hlaueriksson",
       "repo": "awesome-powertoys-run-plugins",
-      "stars": 611,
+      "stars": 612,
       "topics": [
         "awesome",
         "awesome-list",
