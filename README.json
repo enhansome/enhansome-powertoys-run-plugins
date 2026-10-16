@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-15T08:55:31Z",
-            "open_issues": 7746,
+            "last_commit": "2026-10-16T09:16:45Z",
+            "open_issues": 7756,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139342,
+            "stars": 139371,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3375,
+            "stars": 3377,
             "topics": [
               "everything",
               "everything-search",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:08:19Z",
+            "last_commit": "2026-10-16T01:08:34Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -491,6 +491,37 @@
         },
         {
           "node_type": "item",
+          "title": "SpeedTest",
+          "description": "Test your internet connection speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Run internet speed tests directly from PowerToys Run",
+            "homepage": "https://github.com/ruslanlap/PowerToysRun-SpeedTest#readme",
+            "id": 974455756,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-09-20T21:49:18Z",
+            "open_issues": 0,
+            "owner": "ruslanlap",
+            "repo": "PowerToysRun-SpeedTest",
+            "stars": 62,
+            "topics": [
+              "internet-speed",
+              "network",
+              "ookla",
+              "plugin",
+              "powertoys",
+              "powertoys-run-plugin",
+              "speedtest",
+              "windows",
+              "windows-10"
+            ]
+          },
+          "first_seen": "2026-08-28T16:59:34.387Z"
+        },
+        {
+          "node_type": "item",
           "title": "Definition",
           "description": "Lookup word definitions, phonetics, and synonyms.",
           "children": [],
@@ -517,37 +548,6 @@
               "powertoys-run-plugin",
               "synonyms",
               "vocabulary",
-              "windows",
-              "windows-10"
-            ]
-          },
-          "first_seen": "2026-08-28T16:59:34.387Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SpeedTest",
-          "description": "Test your internet connection speed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Run internet speed tests directly from PowerToys Run",
-            "homepage": "https://github.com/ruslanlap/PowerToysRun-SpeedTest#readme",
-            "id": 974455756,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-09-20T21:49:18Z",
-            "open_issues": 0,
-            "owner": "ruslanlap",
-            "repo": "PowerToysRun-SpeedTest",
-            "stars": 61,
-            "topics": [
-              "internet-speed",
-              "network",
-              "ookla",
-              "plugin",
-              "powertoys",
-              "powertoys-run-plugin",
-              "speedtest",
               "windows",
               "windows-10"
             ]
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:31:12.294Z",
+    "last_updated": "2026-10-16T09:23:50.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
@@ -1320,7 +1320,7 @@
       "open_issues": 7,
       "owner": "hlaueriksson",
       "repo": "awesome-powertoys-run-plugins",
-      "stars": 611,
+      "stars": 612,
       "topics": [
         "awesome",
         "awesome-list",
