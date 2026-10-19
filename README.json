@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-18T08:25:12Z",
-            "open_issues": 7770,
+            "last_commit": "2026-10-19T09:27:21Z",
+            "open_issues": 7777,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139444,
+            "stars": 139480,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3377,
+            "stars": 3378,
             "topics": [
               "everything",
               "everything-search",
@@ -122,8 +122,8 @@
             "id": 459124099,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-13T03:19:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-18T12:13:43Z",
+            "open_issues": 12,
             "owner": "N0I0C0K",
             "repo": "PowerTranslator",
             "stars": 586,
@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-EdgeFavorite",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "edge",
               "edge-favorites",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:13:56.654Z",
+    "last_updated": "2026-10-19T10:23:37.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
