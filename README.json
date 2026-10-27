@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-26T10:29:49Z",
-            "open_issues": 7874,
+            "last_commit": "2026-10-27T09:32:20Z",
+            "open_issues": 7884,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 139962,
+            "stars": 140029,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3383,
+            "stars": 3382,
             "topics": [
               "everything",
               "everything-search",
@@ -153,11 +153,11 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T01:17:11Z",
+            "last_commit": "2026-10-27T01:14:49Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "plugin",
               "powertoys",
@@ -186,7 +186,7 @@
             "open_issues": 19,
             "owner": "Daydreamer-riri",
             "repo": "CmdPal-WebSearchShortcut",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "cmdpal",
               "cmdpal-extension",
@@ -218,7 +218,7 @@
             "open_issues": 7,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-ClipboardManager",
-            "stars": 243,
+            "stars": 242,
             "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -239,7 +239,7 @@
             "open_issues": 2,
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 240,
+            "stars": 239,
             "topics": [
               "convert-currencies",
               "converter",
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-GitHubRepo",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -385,7 +385,7 @@
             "open_issues": 3,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-InputTyper",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "input",
               "paste",
@@ -796,7 +796,7 @@
             "open_issues": 8,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-Timer",
-            "stars": 37,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:38:41.228Z",
+    "last_updated": "2026-10-27T10:07:27.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
