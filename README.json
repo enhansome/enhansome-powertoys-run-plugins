@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-04T11:57:34Z",
-            "open_issues": 7991,
+            "last_commit": "2026-11-05T12:02:40Z",
+            "open_issues": 8011,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 140531,
+            "stars": 140594,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -153,7 +153,7 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:52:15Z",
+            "last_commit": "2026-11-05T00:50:27Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
@@ -218,7 +218,7 @@
             "open_issues": 7,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-ClipboardManager",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -439,7 +439,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-25T14:57:35Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 84,
@@ -475,7 +475,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2025-03-18T10:17:36Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "Quriz",
             "repo": "PowerToysRunScoop",
             "stars": 74,
@@ -1120,7 +1120,7 @@
             "id": 842875275,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-11T06:49:54Z",
+            "last_commit": "2026-11-05T07:32:25Z",
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "ptr",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:40:13.865Z",
+    "last_updated": "2026-11-05T12:50:47.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
