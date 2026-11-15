@@ -15,11 +15,11 @@
             "id": 184456251,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-14T11:12:49Z",
-            "open_issues": 8095,
+            "last_commit": "2026-11-15T10:51:26Z",
+            "open_issues": 8107,
             "owner": "microsoft",
             "repo": "PowerToys",
-            "stars": 140971,
+            "stars": 141001,
             "topics": [
               "advanced-paste",
               "color-picker",
@@ -59,7 +59,7 @@
             "open_issues": 0,
             "owner": "hlaueriksson",
             "repo": "Community.PowerToys.Run.Plugin.Install",
-            "stars": 27,
+            "stars": 26,
             "topics": [
               "microsoft-powertoys",
               "plugin",
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "lin-ycv",
             "repo": "EverythingPowerToys",
-            "stars": 3386,
+            "stars": 3387,
             "topics": [
               "everything",
               "everything-search",
@@ -126,7 +126,7 @@
             "open_issues": 12,
             "owner": "N0I0C0K",
             "repo": "PowerTranslator",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "chinese-translation",
               "cmdpal",
@@ -153,11 +153,11 @@
             "id": 613023630,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:50:40Z",
+            "last_commit": "2026-11-15T00:55:18Z",
             "open_issues": 9,
             "owner": "bostrot",
             "repo": "PowerToysRunPluginWinget",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "plugin",
               "powertoys",
@@ -186,7 +186,7 @@
             "open_issues": 19,
             "owner": "Daydreamer-riri",
             "repo": "CmdPal-WebSearchShortcut",
-            "stars": 307,
+            "stars": 306,
             "topics": [
               "cmdpal",
               "cmdpal-extension",
@@ -218,7 +218,7 @@
             "open_issues": 7,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-ClipboardManager",
-            "stars": 244,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -239,7 +239,7 @@
             "open_issues": 2,
             "owner": "Advaith3600",
             "repo": "PowerToys-Run-Currency-Converter",
-            "stars": 239,
+            "stars": 238,
             "topics": [
               "convert-currencies",
               "converter",
@@ -268,7 +268,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-ProcessKiller",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -293,7 +293,7 @@
             "open_issues": 2,
             "owner": "hlaueriksson",
             "repo": "GEmojiSharp",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "asp-net-core",
               "blazor",
@@ -329,7 +329,7 @@
             "open_issues": 1,
             "owner": "davidegiacometti",
             "repo": "PowerToys-Run-EdgeFavorite",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "edge",
               "edge-favorites",
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "PowerToysRun-GitHubRepo",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -385,7 +385,7 @@
             "open_issues": 3,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-InputTyper",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "input",
               "paste",
@@ -438,8 +438,8 @@
             "id": 952785428,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:57:35Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T11:56:55Z",
+            "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-VideoDownloader",
             "stars": 85,
@@ -478,7 +478,7 @@
             "open_issues": 0,
             "owner": "Quriz",
             "repo": "PowerToysRunScoop",
-            "stars": 74,
+            "stars": 73,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -505,7 +505,7 @@
             "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Definition",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "csharp",
               "definitions",
@@ -570,7 +570,7 @@
             "open_issues": 0,
             "owner": "KawaiiZapic",
             "repo": "PowertoysRunTOTP",
-            "stars": 57,
+            "stars": 56,
             "topics": [
               "powertoys",
               "powertoys-run",
@@ -735,7 +735,7 @@
             "open_issues": 2,
             "owner": "nathancartlidge",
             "repo": "powertoys-run-unicode",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "agda-mode",
               "latex",
@@ -762,7 +762,7 @@
             "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "CommunityPowerToysRunPlugin-QuickNotes",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "csharp",
               "dotnet",
@@ -796,7 +796,7 @@
             "open_issues": 8,
             "owner": "CoreyHayward",
             "repo": "PowerToys-Run-Timer",
-            "stars": 36,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T16:59:34.387Z"
@@ -867,7 +867,7 @@
             "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-RandomGen",
-            "stars": 32,
+            "stars": 31,
             "topics": [
               "csharp",
               "datagenerator",
@@ -902,7 +902,7 @@
             "open_issues": 0,
             "owner": "Fefedu973",
             "repo": "PowerToys-Run-Universal-Search-Suggestions-Plugin",
-            "stars": 30,
+            "stars": 29,
             "topics": [
               "browser",
               "plugin",
@@ -932,7 +932,7 @@
             "open_issues": 0,
             "owner": "SameerJS6",
             "repo": "powertoys-svgl",
-            "stars": 26,
+            "stars": 25,
             "topics": [
               "csharp",
               "desktop",
@@ -993,7 +993,7 @@
             "open_issues": 0,
             "owner": "ruslanlap",
             "repo": "PowerToysRun-Hotkeys",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "hotkeys",
               "plugin",
@@ -1095,7 +1095,7 @@
             "open_issues": 0,
             "owner": "seguri",
             "repo": "PowerToys-Run-JohnnyDecimal",
-            "stars": 4,
+            "stars": 3,
             "topics": [
               "powertoys-run-plugin"
             ]
@@ -1124,7 +1124,7 @@
             "open_issues": 0,
             "owner": "8LWXpg",
             "repo": "ptr",
-            "stars": 152,
+            "stars": 151,
             "topics": [
               "cli",
               "plugin-manager",
@@ -1308,7 +1308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:51:32.487Z",
+    "last_updated": "2026-11-15T12:22:29.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "🗂️🔎 Delightful PowerToys Run community plugins 🔌",
